@@ -180,3 +180,8 @@
     </profiles>
 
 </project>
+<dependency>
+  <groupId>com.github.kyriosdata.saep</groupId>
+  <artifactId>saep-dominio</artifactId>
+  <version>1.0.7</version>
+</dependency>
